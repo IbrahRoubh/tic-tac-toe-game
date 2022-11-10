@@ -7,7 +7,7 @@ How to run it<br>
 after downlod the file go to:
 Project_XO -> out -> artifacts -> untitled24_jar
 you will find untitled24 clik on it and the game<br>
-will start.
+will start.<br>
 <img src="start.png"/>
 <img src="play.png"/>
 <img src="player win.png"/>
