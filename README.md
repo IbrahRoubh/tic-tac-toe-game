@@ -4,8 +4,8 @@ their are two mode for play,1.vs.1 and 1.vs.computer,<br>
 it is so simpl project i hope you like it.<br>
 
 How to run it<br>
-after downlod the file go to:
-Project_XO -> out -> artifacts -> untitled24_jar
+after downlod the file go to:<br>
+Project_XO -> out -> artifacts -> untitled24_jar<br>
 you will find untitled24 clik on it and the game<br>
 will start.<br>
 <img src="start.png"/>
